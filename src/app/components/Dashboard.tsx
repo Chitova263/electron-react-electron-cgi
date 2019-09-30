@@ -21,6 +21,7 @@ export class Dashboard extends React.Component<{}, IState> {
   public render(): React.ReactNode {
     return <div>
     <h1>HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</h1>
+    {JSON.stringify(this.state)}
     </div>;
   }
 
