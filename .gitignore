@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+.idea/
+core/Core.DotSettings.user
+dist/
+core/Core/bin
+core/Core/obj
