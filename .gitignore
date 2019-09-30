@@ -5,3 +5,4 @@ core/Core.DotSettings.user
 dist/
 core/Core/bin
 core/Core/obj
+release-builds/
