@@ -1,15 +1,14 @@
 ## Electron-React-Electron-cgi-Dotnet
 
 ```
-$ git clone https://github.com/Chitova263/electron-react-electron-cgi.git
-$ cd electron-react-electron-cgi.git
+$ git clone https://github.com/Chitova263/electron-react-electron-cgi.git && cd electron-react-electron-cgi.git
 ```
 - Build Desktop App
 ```
 $ npm run build:react
 $ npm run build
 $ npm run start
-$ npm run package-win   or  npm run package-mac
+$ npm run package-win or  npm run package-mac
 ```
 
 - Dotnet Core Console App
